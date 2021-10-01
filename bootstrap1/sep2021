@@ -18,10 +18,13 @@
             }
             .top-medium-spacing{
                 padding-top: 10px;
+                
             }
             .bottom-medium-spacing{
                 padding-bottom:10px;
+               
             }
+    
             .icon-spacing{
                 padding-left: 10px;
                 padding-right: 10px;
@@ -65,7 +68,7 @@
         <header>
             <nav class="navbar">
                 <a class="navbar-brand" href="#">
-                    <img src="assets/images/logo.png" width="300" alt="logo">
+                    <img src="assets/images/logo.png" width="100" alt="logo">
                 </a>
                 <!-- <div class="navbar-nav"> -->
                     <ul class="navbar-nav">
@@ -93,7 +96,7 @@
                 <!-- </div> -->
             </nav>
             <div>
-                <img src="assets/images/image1.jpg"auto" height="900px" >
+                <img src="assets/images/image1.jpg" width="auto" height="1000px" >
             </div>
         </header>
         <main>
@@ -187,7 +190,7 @@
                             </div>
                             <div  class="contact-us-spacing">
                                 <span class="fa fa-map-marker fa-3x"></span>
-                                <p>#24, 2nd Main Road,<br> Some road KB Nagar<br> Bangalore</p>
+                                <p>#22, 2nd Main Road,<br> Some road jayanagar,<br> Bangalore</p>
                             </div>    
                         </div>
                         <div  class="col-6">
